@@ -13,6 +13,8 @@
 When you register the account, you will get a apikey. 
 [百度OCR文字识别](http://apistore.baidu.com/apiworks/servicedetail/146.html)
 
+<img src="https://github.com/AdamsMao/baidu_ocr_api/blob/master/Page2.jpg">
+
 Recoganized texts as below, almost 100% accurate.
 
 一、中央官制
