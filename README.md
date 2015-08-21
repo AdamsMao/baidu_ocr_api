@@ -1,6 +1,6 @@
-Baidu OCR API service, python example. 
+##Baidu OCR API service, python example. 
 
-##How to use? 
+####How to use? 
 
 1. colone this project.
 
@@ -8,10 +8,10 @@ Baidu OCR API service, python example.
 
 3. python baidu_ocr_api.py
 
-##How to get the apikey?
+####How to get the apikey?
 
 When you register the account, you will get a apikey. 
-http://apistore.baidu.com/apiworks/servicedetail/146.html
+[百度OCR文字识别](http://apistore.baidu.com/apiworks/servicedetail/146.html)
 
 Recoganized texts as below, almost 100% accurate.
 
