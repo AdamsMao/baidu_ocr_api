@@ -15,8 +15,9 @@ When you register the account, you will get a apikey.
 
 <img src="https://github.com/AdamsMao/baidu_ocr_api/blob/master/Page2.jpg">
 
-Recoganized texts as below, very nice!
+**Recoganized texts as below, very nice!**
 
+'''
 标签
  ux Python 实验环境
   CC
@@ -25,4 +26,4 @@ Recoganized texts as below, very nice!
  Hadoop Web PHP HTML
   HMS网络训练营信息安全
  Nodes Nosql
-
+'''
